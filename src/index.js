@@ -9,6 +9,7 @@ function App() {
     <div>
       <h1>Hi there!</h1>
       <p>The next day!</p>
+      <p>Time to go!</p>
     </div>
   );
 }
