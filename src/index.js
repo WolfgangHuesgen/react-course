@@ -10,6 +10,11 @@ function App() {
       <h1>Hi there!</h1>
       <p>The next day!</p>
       <p>Time to go!</p>
+      <p>Hallo</p>
+      <p>Hallo Uschi</p>
+      <p>Hallo Wolfgang
+        
+      </p>
     </div>
   );
 }
