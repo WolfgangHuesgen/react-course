@@ -5,7 +5,12 @@ const el = document.getElementById('root');
 const root = ReactDOM.createRoot(el);
 
 function App() {
-    return <h1>Hi there!</h1>;
+    return (
+      <div>
+        <h1>Hi there!</h1>;
+        <p>The next day!</p>
+      </div>
+    ); 
 }
 
 root.render(<App />);
